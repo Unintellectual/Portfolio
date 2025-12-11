@@ -27,6 +27,3 @@ cd portfolio-2024
 
 Contributions to this project are welcome. If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the Mozilla Public License 2. See the `LICENSE` file for details.
